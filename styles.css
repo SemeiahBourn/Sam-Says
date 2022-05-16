@@ -33,6 +33,7 @@ body {
   
   .blue {
     background-color: #17c0eb;
+    border-radius: 90px;
   }
   
   .purple {
@@ -41,10 +42,18 @@ body {
   
   .pink {
     background-color: #ffcccc;
+    border-radius: 90px;
   }
   
   .yellow {
     background-color: #fffa65;
+  }
+  .orange {
+    background-color: #ff9f1a;
+    display: none;
+  }
+  #img {
+    display: none;
   }
   
   .pressed {
