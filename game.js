@@ -138,7 +138,7 @@ orangeButton.style.display = 'none';
 }
 //This function will change the speed of that the sequence is called.
 function speedItUp(){
-timeout =  (timeout / 2 )
+timeout =  (timeout / 1.5 )
 console.log("current timeout speed is " + timeout);
 }
 
